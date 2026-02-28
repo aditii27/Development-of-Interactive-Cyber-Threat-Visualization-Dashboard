@@ -14,15 +14,23 @@ It simulates a live cyber threat intelligence monitoring platform with interacti
 
 ---
 
+
+
 ## 🎬 Live Project Demonstration
 
-https://github.com/aditii27/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard/blob/main/Cybershield-Demo.mp4
+<div align="center">
+
+![CyberShield Demo](https://github.com/aditii27/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard/raw/main/Cybershield-Demo.mp4)
+
+</div>
+
+*If the video doesn't play above, [click here to watch it](https://github.com/aditii27/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard/raw/main/Cybershield-Demo.mp4)*
 
 ---
 
 ## 📊 Project Presentation
 
-📂 **Slides:** [Presentation.pptx](https://github.com/user-attachments/files/25607367/Presentation.pptx)
+📂 **Slides:** [CyberShield Presentation.pptx](./CyberShield%20Presentation.pptx)
 
 ---
 
